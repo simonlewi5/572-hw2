@@ -1,0 +1,41 @@
+Name: Simon Lewis
+USC ID: 6580742939
+News site crawled: latimes.com
+Number of threads: 8
+
+Fetch Statistics
+================
+# fetches attempted: 20000
+# fetches succeeded: 19809
+# fetches failed or aborted: 191
+
+Outgoing URLs:
+==============
+Total URLs extracted: 4368538
+# unique URLs extracted: 252827
+# unique URLs within News Site: 68898
+# unique URLs outside News Site: 183929
+
+Status Codes:
+=============
+200 OK: 19809
+403 Forbidden: 149
+404 Not Found: 33
+429: 2
+999: 2
+Error: 5
+
+File Sizes:
+===========
+< 1KB: 1
+1KB ~ <10KB: 12
+10KB ~ <100KB: 858
+100KB ~ <1MB: 18791
+>= 1MB: 147
+
+Content Types:
+==============
+text/html: 19659
+application/pdf: 3
+image/jpeg: 139
+image/png: 8
