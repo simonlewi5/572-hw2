@@ -76,3 +76,6 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+crawler_state.pkl
+urls_latimes.csv
